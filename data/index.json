@@ -1,31 +1,61 @@
 {
-     "jobtitle":[
-        " Aspring Fullstack Developer"
-     ],
-     "about":[
-        "  My name is Mbalentle Diko,  I am from Khayelitsha. I went to the Centre Of Science And Technology , where I got introduced to Information technology as a subject and  I knew I wanted more of what i was given  there and then I knew that  I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike.After matric I applied to Life Choices Academy Where i am still at , doing web development . Information Technology as a whole fascinates me. I am grateful to be in the Technology industry and I am prepared to learn more."
-     ],
-     "education":[
-        " Centre Of Science And Technology (2019-2023)",
-        "Life Choices Academy(2024)"
-     ],
-     "experience":[
-        "Life Choices Academy"
-     ],
-     "skills":[
-        " I have good public speaking skills : I had a 6 weeks training by Speak to Inspire",
-        "Critical Thinking : I am able to think on my feet and make informed decisions.",
-        "Ability to work in a team : I enjoy having more opinions to consider before making a decision, I respect the views and opinions of other people.",
-        "I easily adapt to different working conditions",
-        "Time management: I am able to plan and schedule my time properly making sure to include all of my responsibilities and being on time on every task assigned."
-     ],
-     "Testimonial":[
-        ""
-     ],
-     "Projects":[
-        "Calculator",
-        "Keyboard",
-        "Todo List",
-        "Temperature converter"
-     ]
+  "jobtitle": [
+    {
+      "title": " Aspring Fullstack Developer",
+      "color": "rgb(0, 76, 10)"
+    },
+    {
+      "title": "Student",
+      "color": "rgb(0, 100, 0)"
+    }
+  ],
+
+  "about": [
+    "  My name is Mbalentle Diko,  I am from Khayelitsha. I went to the Centre Of Science And Technology , where I got introduced to Information technology as a subject and  I knew I wanted more of what i was given  there and then I knew that  I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike.After matric I applied to Life Choices Academy Where i am still at , doing web development . Information Technology as a whole fascinates me. I am grateful to be in the Technology industry and I am prepared to learn more."
+  ],
+  "education": [
+    {
+      "id": 1,
+      "year": 2019,
+      "description": "I completed my matric",
+      "place": "Centre Of Science And Technology (COSAT)"
+    },
+    {
+      "id": 2,
+      "year": 2024,
+      "description": "Web Developmentc course",
+      "place": "Life Choices Academy"
+    }
+  ],
+
+  "experiences": [
+    {
+      " name": "Life Choices Academy",
+      "duty": "Learn diffrent programming languages , Build websites "
+    }
+  ],
+  "skills": [
+    {
+      "title": "Good public skills",
+      "explanation": " I have good public speaking skills : I had a 6 weeks training by Speak to Inspire"
+    },
+    {
+      "title": "Crirtical thinking",
+      "explanation": "I am able to think on my feet and make informed decisions."
+    },
+    {
+      "title": "Team work",
+      "explanation": "Ability to work in a team : I enjoy having more opinions to consider before making a decision, I respect the views and opinions of other people."
+    },
+    {
+      "title": "Excellent adaptation skills",
+      "explanation": "I easily adapt to different working conditions"
+    },
+    {
+      "title": "Time Management",
+      "explanation": "I am able to plan and schedule my time properly making sure to include all of my responsibilities and being on time on every task assigned."
+    }
+  ],
+  "Testimonial": [""],
+  "Projects": ["Calculator", "Keyboard", "Todo List", "Temperature converter"]
 }
