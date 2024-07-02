@@ -37,11 +37,11 @@
   "skills": [
     {
       "title": "Good public skills",
-      "explanation": " I have good public speaking skills : I had a 6 weeks training by Speak to Inspire"
+      "explanation": " I have good public speaking skills : I had a 6 weeks training by Speak to Inspire where i was tought Authenticity and passion.The power of story telling on how to craft and deliver compelling stories  "
     },
     {
       "title": "Crirtical thinking",
-      "explanation": "I am able to think on my feet and make informed decisions."
+      "explanation": "I am able to think on my feet and make informed decisions by analyzing information , identifying biases , Evaluating evidence  ."
     },
     {
       "title": "Team work",
@@ -56,6 +56,65 @@
       "explanation": "I am able to plan and schedule my time properly making sure to include all of my responsibilities and being on time on every task assigned."
     }
   ],
-  "Testimonial": [""],
-  "Projects": ["Calculator", "Keyboard", "Todo List", "Temperature converter"]
+  "testimonials": [
+        {
+            "name": "Zizipho ",
+            "surname": "Cophiso",
+            "quotes": "Mbalentle embodies a remarkable blend of diligence, ambition. With a commendable work ethic,she consistently strives to achieve her goals,fueled by a genuine passion for success.",
+            "profile": "https://mbalentlediko.github.io/Images/static/zizipho.jpg"
+        },
+        {
+            "name": "Yakupha ",
+            "surname": "Ntonintshi",
+            "quotes": "Mbalentle is a determined classmate who is always looking for ways to improve.she is easy to work with and gives everyone a chance to voice their opinions",
+            "profile": "https://mbalentlediko.github.io/Images/static/IMG_5290 (1).jpg"
+        },
+        {
+            "name": "Lonke",
+            "surname": "Hintsho",
+            "quotes": " I wholeheartedly recommend my classmate as a web developer. Their technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
+            "profile": "https://mbalentlediko.github.io/Images/static/20240422_100618.jpg"
+        },
+        {
+            "name": "Mapule",
+            "surname": "Mbuuzwana",
+            "quotes": "Mbalentle has a professional drive. Her pleasant personality and confidence makes her presence valuable in every setting",
+            "profile": "https://mbalentlediko.github.io/Images/static/20240422_100655.jpg"
+        }
+    ],
+    "projects":[
+      {
+          "name": "Calculator",
+          "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+          "image": "",
+          "gitHub": "",
+          "netlify": ""
+      },
+      {
+          "name": "Keyboard",
+          "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS .",
+          "image": "",
+          "gitHub": "",
+          "netlify": ""
+      },
+      {
+          "name": "BMI Calculator",
+          "description": "",
+          "image": "",
+          "gitHub": "",
+          "netlify": ""
+      }
+  ],
+  "ContactInfo" :[{
+        "Address":"Wp 1468 Monwabisi Park Khayelitsha 7784",
+        "phone" :" 083 564 5479",
+        "email" : "dikombalentle9@gmail.com"
+        
+  }
+  
+
+
+
+  ]
+
 }
