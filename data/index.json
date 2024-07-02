@@ -1,120 +1,114 @@
 {
-  "jobtitle": [
-    {
-      "title": " Aspring Fullstack Developer",
-      "color": "rgb(0, 76, 10)"
-    },
-    {
-      "title": "Student",
-      "color": "rgb(0, 100, 0)"
-    }
-  ],
-
-  "about": [
-    "  My name is Mbalentle Diko,  I am from Khayelitsha. I went to the Centre Of Science And Technology , where I got introduced to Information technology as a subject and  I knew I wanted more of what i was given  there and then I knew that  I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike.After matric I applied to Life Choices Academy Where i am still at , doing web development . Information Technology as a whole fascinates me. I am grateful to be in the Technology industry and I am prepared to learn more."
-  ],
-  "education": [
-    {
-      "id": 1,
-      "year": 2019,
-      "description": "I completed my matric",
-      "place": "Centre Of Science And Technology (COSAT)"
-    },
-    {
-      "id": 2,
-      "year": 2024,
-      "description": "Web Developmentc course",
-      "place": "Life Choices Academy"
-    }
-  ],
-
-  "experiences": [
-    {
-      "name": "Life Choices Academy",
-      "duty": "Learn diffrent programming languages , Build websites "
-    }
-  ],
-  "skills": [
-    {
-      "title": "Good public skills",
-      "explanation": " I have good public speaking skills : I had a 6 weeks training by Speak to Inspire where i was tought Authenticity and passion.The power of story telling on how to craft and deliver compelling stories  "
-    },
-    {
-      "title": "Crirtical thinking",
-      "explanation": "I am able to think on my feet and make informed decisions by analyzing information , identifying biases , Evaluating evidence  ."
-    },
-    {
-      "title": "Team work",
-      "explanation": "Ability to work in a team : I enjoy having more opinions to consider before making a decision, I respect the views and opinions of other people."
-    },
-    {
-      "title": "Excellent adaptation skills",
-      "explanation": "I easily adapt to different working conditions"
-    },
-    {
-      "title": "Time Management",
-      "explanation": "I am able to plan and schedule my time properly making sure to include all of my responsibilities and being on time on every task assigned."
-    }
-  ],
-  "testimonials": [
-        {
-            "name": "Zizipho ",
-            "surname": "Cophiso",
-            "quotes": "Mbalentle embodies a remarkable blend of diligence, ambition. With a commendable work ethic,she consistently strives to achieve her goals,fueled by a genuine passion for success.",
-            "profile": "https://mbalentlediko.github.io/Images/static/zizipho.jpg"
-        },
-        {
-            "name": "Yakupha ",
-            "surname": "Ntonintshi",
-            "quotes": "Mbalentle is a determined classmate who is always looking for ways to improve.she is easy to work with and gives everyone a chance to voice their opinions",
-            "profile": "https://mbalentlediko.github.io/Images/static/IMG_5290 (1).jpg"
-        },
-        {
-            "name": "Lonke",
-            "surname": "Hintsho",
-            "quotes": " I wholeheartedly recommend my classmate as a web developer. Their technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
-            "profile": "https://mbalentlediko.github.io/Images/static/20240422_100618.jpg"
-        },
-        {
-            "name": "Mapule",
-            "surname": "Mbuuzwana",
-            "quotes": "Mbalentle has a professional drive. Her pleasant personality and confidence makes her presence valuable in every setting",
-            "profile": "https://mbalentlediko.github.io/Images/static/20240422_100655.jpg"
-        }
-    ],
-    "projects":[
-      {
-          "name": "Calculator",
-          "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-          "image": "",
-          "gitHub": "",
-          "netlify": ""
-      },
-      {
-          "name": "Keyboard",
-          "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS .",
-          "image": "",
-          "gitHub": "",
-          "netlify": ""
-      },
-      {
-          "name": "BMI Calculator",
-          "description": "",
-          "image": "",
-          "gitHub": "",
-          "netlify": ""
-      }
-  ],
-  "ContactInfo" :[{
-        "Address":"Wp 1468 Monwabisi Park Khayelitsha 7784",
-        "phone" :" 083 564 5479",
-        "email" : "dikombalentle9@gmail.com"
-        
-  }
-  
-
-
-
-  ]
-
-}
+   "jobtitle": [
+     {
+       "title": "Aspiring Fullstack Developer",
+       "color": "rgb(0, 76, 10)"
+     },
+     {
+       "title": "Student",
+       "color": "rgb(0, 100, 0)"
+     }
+   ],
+   "about": [
+     "My name is Mbalentle Diko, I am from Khayelitsha. I went to the Centre Of Science And Technology, where I got introduced to Information technology as a subject, and I knew I wanted more of what I was given there and then I knew that I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike. After matric, I applied to Life Choices Academy where I am still at, doing web development. Information Technology as a whole fascinates me. I am grateful to be in the Technology industry, and I am prepared to learn more."
+   ],
+   "education": [
+     {
+       "id": 1,
+       "year": 2019,
+       "description": "I completed my matric",
+       "place": "Centre Of Science And Technology (COSAT)"
+     },
+     {
+       "id": 2,
+       "year": 2024,
+       "description": "Web Development course",
+       "place": "Life Choices Academy"
+     }
+   ],
+   "experiences": [
+     {
+       "name": "Life Choices Academy",
+       "duty": "Learn different programming languages, build websites"
+     }
+   ],
+   "skills": [
+     {
+       "title": "Good public skills",
+       "explanation": "I have good public speaking skills: I had a 6 weeks training by Speak to Inspire where I was taught authenticity and passion. The power of storytelling and how to craft and deliver compelling stories."
+     },
+     {
+       "title": "Critical thinking",
+       "explanation": "I am able to think on my feet and make informed decisions by analyzing information, identifying biases, and evaluating evidence."
+     },
+     {
+       "title": "Team work",
+       "explanation": "Ability to work in a team: I enjoy having more opinions to consider before making a decision, and I respect the views and opinions of other people."
+     },
+     {
+       "title": "Excellent adaptation skills",
+       "explanation": "I easily adapt to different working conditions."
+     },
+     {
+       "title": "Time Management",
+       "explanation": "I am able to plan and schedule my time properly, making sure to include all of my responsibilities and being on time on every task assigned."
+     }
+   ],
+   "testimonials": [
+     {
+       "name": "Zizipho",
+       "surname": "Cophiso",
+       "quotes": "Mbalentle embodies a remarkable blend of diligence and ambition. With a commendable work ethic, she consistently strives to achieve her goals, fueled by a genuine passion for success.",
+       "profile": "https://mbalentlediko.github.io/Images/static/zizipho.jpg"
+     },
+     {
+       "name": "Yakupha",
+       "surname": "Ntonintshi",
+       "quotes": "Mbalentle is a determined classmate who is always looking for ways to improve. She is easy to work with and gives everyone a chance to voice their opinions.",
+       "profile": "https://mbalentlediko.github.io/Images/static/IMG_5290%20(1).jpg"
+     },
+     {
+       "name": "Lonke",
+       "surname": "Hintsho",
+       "quotes": "I wholeheartedly recommend my classmate as a web developer. Their technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
+       "profile": "https://mbalentlediko.github.io/Images/static/20240422_100618.jpg"
+     },
+     {
+       "name": "Mapule",
+       "surname": "Mbuuzwana",
+       "quotes": "Mbalentle has a professional drive. Her pleasant personality and confidence make her presence valuable in every setting.",
+       "profile": "https://mbalentlediko.github.io/Images/static/20240422_100655.jpg"
+     }
+   ],
+   "projects": [
+     {
+       "name": "Calculator",
+       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+       "image": "",
+       "gitHub": "",
+       "netlify": ""
+     },
+     {
+       "name": "Keyboard",
+       "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
+       "image": "",
+       "gitHub": "",
+       "netlify": ""
+     },
+     {
+       "name": "BMI Calculator",
+       "description": "",
+       "image": "",
+       "gitHub": "",
+       "netlify": ""
+     }
+   ],
+   "contactInfo": [
+     {
+       "address": "WP 1468 Monwabisi Park Khayelitsha 7784",
+       "phone": "083 564 5479",
+       "email": "dikombalentle9@gmail.com"
+     }
+   ]
+ }
+ 
