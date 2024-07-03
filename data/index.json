@@ -84,25 +84,25 @@
      {
        "name": "Calculator",
        "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-       "image": "",
-       "gitHub": "",
+       "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
+       "gitHub": "https://github.com/Mbalentlediko/newCalculator.git",
        "netlify": ""
      },
      {
        "name": "Keyboard",
        "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
-       "image": "",
-       "gitHub": "",
+       "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
+       "gitHub": "https://github.com/Mbalentlediko/keyboard.git",
        "netlify": ""
      },
      {
        "name": "BMI Calculator",
-       "description": "",
-       "image": "",
-       "gitHub": "",
+       "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
+       "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
+       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
        "netlify": ""
      }
-   ],
+       ],
    "contactInfo": [
      {
        "address": "WP 1468 Monwabisi Park Khayelitsha 7784",
