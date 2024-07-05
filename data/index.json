@@ -17,13 +17,16 @@
        "id": 1,
        "year": 2019,
        "description": "I completed my matric",
-       "place": "Centre Of Science And Technology (COSAT)"
+       "place": "Centre Of Science And Technology (COSAT)",
+       "image":"https://mbalentlediko.github.io/Images/static/cOSAT.jpg"
      },
      {
        "id": 2,
        "year": 2024,
        "description": "Web Development course",
-       "place": "Life Choices Academy"
+       "place": "Life Choices Academy",
+       "image":"https://mbalentlediko.github.io/Images/static/lca.jpg"
+
      }
    ],
    "experiences": [
@@ -34,7 +37,7 @@
    ],
    "skills": [
      {
-       "title": "Good public skills",
+       "title": "Good public speaking  skills",
        "explanation": "I have good public speaking skills: I had a 6 weeks training by Speak to Inspire where I was taught authenticity and passion. The power of storytelling and how to craft and deliver compelling stories."
      },
      {
@@ -70,13 +73,13 @@
      {
        "name": "Lonke",
        "surname": "Hintsho",
-       "quotes": "I wholeheartedly recommend my classmate as a web developer. Their technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
+       "quotes": "Her technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
        "profile": "https://mbalentlediko.github.io/Images/static/20240422_100618.jpg"
      },
      {
        "name": "Mapule",
        "surname": "Mbuuzwana",
-       "quotes": "Mbalentle has a professional drive. Her pleasant personality and confidence make her presence valuable in every setting.",
+       "quotes": "I wholeheartedly recommend my classmate as a web developer.Her professional drive. Her pleasant personality and confidence make her presence valuable in every setting.",
        "profile": "https://mbalentlediko.github.io/Images/static/pulz.jpg"
      }
    ],
@@ -84,7 +87,7 @@
      {
        "name": "Calculator",
        "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-       "image": "https://mbalentlediko.github.io/Images/static/Calculator.png",
+       "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
        "gitHub": "https://github.com/Mbalentlediko/newCalculator.git",
        "netlify": ""
      },
@@ -102,13 +105,6 @@
        "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
        "netlify": ""
      }
-       ],
-   "contactInfo": [
-     {
-       "address": "WP 1468 Monwabisi Park Khayelitsha 7784",
-       "phone": "083 564 5479",
-       "email": "dikombalentle9@gmail.com"
-     }
-   ]
+       ]
  }
  
