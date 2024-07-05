@@ -15,7 +15,7 @@
    "education": [
      {
        "id": 1,
-       "year": 2019,
+       "year": 2023,
        "description": "I completed my matric",
        "place": "Centre Of Science And Technology (COSAT)",
        "image":"https://mbalentlediko.github.io/Images/static/cOSAT.jpg"
@@ -81,6 +81,18 @@
        "surname": "Mbuuzwana",
        "quotes": "I wholeheartedly recommend my classmate as a web developer.Her professional drive. Her pleasant personality and confidence make her presence valuable in every setting.",
        "profile": "https://mbalentlediko.github.io/Images/static/pulz.jpg"
+     },
+     {
+       "name": "Khanya",
+       "surname": "Phuhuma",
+       "quotes": "Mbalentle is an aspiring web developer who brings a vibrant energy to our class. Always ready with a smile, Mbalentle's positive attitude and helpful nature make them a joy to be around.",
+       "profile": "https://mbalentlediko.github.io/Images/static/khanya.jpg"
+     },
+     {
+       "name": "Mapule",
+       "surname": "Mbuuzwana",
+       "quotes": "Her agerness to assist classmates and contribute to a collaborative learning environment is truly commendable. Mbalentle's dedication to their craft and their willingness to support others are qualities that will undoubtedly serve them well in their future endeavors.",
+       "profile": "https://mbalentlediko.github.io/Images/static/simanye.jpg"
      }
    ],
    "projects": [
@@ -88,22 +100,31 @@
        "name": "Calculator",
        "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
        "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
-       "gitHub": "https://github.com/Mbalentlediko/newCalculator.git",
-       "netlify": ""
+       "gitHub": "https://github.com/Mbalentlediko/newCalculator.git"
      },
      {
        "name": "Keyboard",
        "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
        "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
-       "gitHub": "https://github.com/Mbalentlediko/keyboard.git",
-       "netlify": ""
+       "gitHub": "https://github.com/Mbalentlediko/keyboard.git"
      },
      {
        "name": "BMI Calculator",
        "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
        "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
-       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
-       "netlify": ""
+       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git"
+     },
+     {
+       "name": "Swegga website Clone",
+       "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
+       "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
+       "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
+     },
+     {
+       "name": "master-Pieces End of module project",
+       "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
+       "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
+       "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git"
      }
        ]
  }
