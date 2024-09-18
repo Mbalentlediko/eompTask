@@ -1,129 +1,128 @@
 {
-   "jobtitle": [
-     {
-       "title": "Aspiring Fullstack Developer",
-       "color": "rgb(0, 76, 10)"
-     },
-     {
-       "title": "Student",
-       "color": "rgb(0, 100, 0)"
-     }
-   ],
-   "about": [
-     "My name is Mbalentle Diko, I am from Khayelitsha. I went to the Centre Of Science And Technology, where I got introduced to Information technology as a subject, and I knew I wanted more of what I was given there and then I knew that I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike. After matric, I applied to Life Choices Academy where I am still at, doing web development. Information Technology as a whole fascinates me. I am grateful to be in the Technology industry, and I am prepared to learn more."
-   ],
-   "education": [
-     {
-       "id": 1,
-       "year": 2023,
-       "description": "I completed my matric",
-       "place": "Centre Of Science And Technology (COSAT)",
-       "image":"https://mbalentlediko.github.io/Images/static/cOSAT.jpg"
-     },
-     {
-       "id": 2,
-       "year": 2024,
-       "description": "Web Development course",
-       "place": "Life Choices Academy",
-       "image":"https://mbalentlediko.github.io/Images/static/lca.jpg"
-
-     }
-   ],
-   "experiences": [
-     {
-       "name": "Life Choices Academy",
-       "duty": "Learn different programming languages, build websites"
-     }
-   ],
-   {
-  "Skills": {
-  "techStack": [
-    { "img": "https://img.icons8.com/fluency/96/html-5.png", "title": "HTML" },
-    { "img": "https://img.icons8.com/fluency/96/css3.png", "title": "CSS" },
-    { "img": "https://img.icons8.com/fluency/96/javascript.png", "title": "JavaScript" },
-    { "img": "https://img.icons8.com/color/96/vue-js.png", "title": "VueJS" },
-    { "img": "https://img.icons8.com/color/96/nodejs.png", "title": "NodeJS" },
-    { "img": "https://img.icons8.com/fluency/96/express-js.png", "title": "ExpressJS" },
-    { "img": "https://img.icons8.com/ios-filled/96/api-settings.png", "title": "Rest APIs" },
-    { "img": "https://img.icons8.com/color/96/firebase.png", "title": "Firebase" }
-  ],
-  "softSkills": [
-    "Effective communication",
-    "Punctuality",
-    "Critical thinking",
-    "Problem solving",
-    "Analytical thinking"
-  ]
-},
-   "testimonials": [
-     {
-       "name": "Zizipho",
-       "surname": "Cophiso",
-       "quotes": "Mbalentle embodies a remarkable blend of diligence and ambition. With a commendable work ethic, she consistently strives to achieve her goals, fueled by a genuine passion for success.",
-       "profile": "https://mbalentlediko.github.io/Images/static/zizipho.jpg"
-     },
-     {
-       "name": "Yakupha",
-       "surname": "Ntonintshi",
-       "quotes": "Mbalentle is a determined classmate who is always looking for ways to improve. She is easy to work with and gives everyone a chance to voice their opinions.",
-       "profile": "https://mbalentlediko.github.io/Images/static/IMG_5290%20(1).jpg"
-     },
-     {
-       "name": "Lonke",
-       "surname": "Hintsho",
-       "quotes": "Her technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
-       "profile": "https://mbalentlediko.github.io/Images/static/20240422_100618.jpg"
-     },
-     {
-       "name": "Mapule",
-       "surname": "Mbuuzwana",
-       "quotes": "I wholeheartedly recommend my classmate as a web developer.Her professional drive. Her pleasant personality and confidence make her presence valuable in every setting.",
-       "profile": "https://mbalentlediko.github.io/Images/static/pulz.jpg"
-     },
-     {
-       "name": "Khanya",
-       "surname": "Phuhuma",
-       "quotes": "Mbalentle is an aspiring web developer who brings a vibrant energy to our class. Always ready with a smile, Mbalentle's positive attitude and helpful nature make them a joy to be around.",
-       "profile": "https://mbalentlediko.github.io/Images/static/khanya.jpg"
-     },
-     {
-       "name": "Mapule",
-       "surname": "Mbuuzwana",
-       "quotes": "Her agerness to assist classmates and contribute to a collaborative learning environment is truly commendable. Mbalentle's dedication to their craft and their willingness to support others are qualities that will undoubtedly serve them well in their future endeavors.",
-       "profile": "https://mbalentlediko.github.io/Images/static/simanye.jpg"
-     }
-   ],
-   "projects": [
-     {
-       "name": "Calculator",
-       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-       "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
-       "gitHub": "https://github.com/Mbalentlediko/newCalculator.git"
-     },
-     {
-       "name": "Keyboard",
-       "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
-       "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
-       "gitHub": "https://github.com/Mbalentlediko/keyboard.git"
-     },
-     {
-       "name": "BMI Calculator",
-       "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
-       "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
-       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git"
-     },
-     {
-       "name": "Swegga website Clone",
-       "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
-       "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
-       "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
-     },
-     {
-       "name": "master-Pieces End of module project",
-       "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
-       "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
-       "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git"
-     }
-       ]
- }
+    "jobtitle": [
+      {
+        "title": "Aspiring Fullstack Developer",
+        "color": "rgb(0, 76, 10)"
+      },
+      {
+        "title": "Student",
+        "color": "rgb(0, 100, 0)"
+      }
+    ],
+    "about": [
+      "My name is Mbalentle Diko, I am from Khayelitsha. I went to the Centre Of Science And Technology, where I got introduced to Information technology as a subject, and I knew I wanted more of what I was given there and then I knew that I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike. After matric, I applied to Life Choices Academy where I am still at, doing web development. Information Technology as a whole fascinates me. I am grateful to be in the Technology industry, and I am prepared to learn more."
+    ],
+    "education": [
+      {
+        "id": 1,
+        "year": 2023,
+        "description": "I completed my matric",
+        "place": "Centre Of Science And Technology (COSAT)",
+        "image":"https://mbalentlediko.github.io/Images/static/cOSAT.jpg"
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "description": "Web Development course",
+        "place": "Life Choices Academy",
+        "image":"https://mbalentlediko.github.io/Images/static/lca.jpg"
  
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Life Choices Academy",
+        "duty": "Learn different programming languages, build websites"
+      }
+    ],
+   "Skills": {
+   "techStack": [
+     { "img": "https://img.icons8.com/fluency/96/html-5.png", "title": "HTML" },
+     { "img": "https://img.icons8.com/fluency/96/css3.png", "title": "CSS" },
+     { "img": "https://img.icons8.com/fluency/96/javascript.png", "title": "JavaScript" },
+     { "img": "https://img.icons8.com/color/96/vue-js.png", "title": "VueJS" },
+     { "img": "https://img.icons8.com/color/96/nodejs.png", "title": "NodeJS" },
+     { "img": "https://img.icons8.com/fluency/96/express-js.png", "title": "ExpressJS" },
+     { "img": "https://img.icons8.com/ios-filled/96/api-settings.png", "title": "Rest APIs" },
+     { "img": "https://img.icons8.com/color/96/firebase.png", "title": "Firebase" }
+   ],
+   "softSkills": [
+     "Effective communication",
+     "Punctuality",
+     "Critical thinking",
+     "Problem solving",
+     "Analytical thinking"
+   ]
+ },
+    "testimonials": [
+      {
+        "name": "Zizipho",
+        "surname": "Cophiso",
+        "quotes": "Mbalentle embodies a remarkable blend of diligence and ambition. With a commendable work ethic, she consistently strives to achieve her goals, fueled by a genuine passion for success.",
+        "profile": "https://mbalentlediko.github.io/Images/static/zizipho.jpg"
+      },
+      {
+        "name": "Yakupha",
+        "surname": "Ntonintshi",
+        "quotes": "Mbalentle is a determined classmate who is always looking for ways to improve. She is easy to work with and gives everyone a chance to voice their opinions.",
+        "profile": "https://mbalentlediko.github.io/Images/static/IMG_5290%20(1).jpg"
+      },
+      {
+        "name": "Lonke",
+        "surname": "Hintsho",
+        "quotes": "Her technical expertise, problem-solving abilities, teamwork, and dedication to learning make them a highly capable and valuable professional. I have no doubt that they will continue to excel in their career and contribute immensely to the field of web development.",
+        "profile": "https://mbalentlediko.github.io/Images/static/20240422_100618.jpg"
+      },
+      {
+        "name": "Mapule",
+        "surname": "Mbuuzwana",
+        "quotes": "I wholeheartedly recommend my classmate as a web developer.Her professional drive. Her pleasant personality and confidence make her presence valuable in every setting.",
+        "profile": "https://mbalentlediko.github.io/Images/static/pulz.jpg"
+      },
+      {
+        "name": "Khanya",
+        "surname": "Phuhuma",
+        "quotes": "Mbalentle is an aspiring web developer who brings a vibrant energy to our class. Always ready with a smile, Mbalentle's positive attitude and helpful nature make them a joy to be around.",
+        "profile": "https://mbalentlediko.github.io/Images/static/khanya.jpg"
+      },
+      {
+        "name": "Mapule",
+        "surname": "Mbuuzwana",
+        "quotes": "Her agerness to assist classmates and contribute to a collaborative learning environment is truly commendable. Mbalentle's dedication to their craft and their willingness to support others are qualities that will undoubtedly serve them well in their future endeavors.",
+        "profile": "https://mbalentlediko.github.io/Images/static/simanye.jpg"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Calculator",
+        "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+        "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
+        "gitHub": "https://github.com/Mbalentlediko/newCalculator.git"
+      },
+      {
+        "name": "Keyboard",
+        "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
+        "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
+        "gitHub": "https://github.com/Mbalentlediko/keyboard.git"
+      },
+      {
+        "name": "BMI Calculator",
+        "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
+        "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
+        "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git"
+      },
+      {
+        "name": "Swegga website Clone",
+        "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
+        "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
+        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
+      },
+      {
+        "name": "master-Pieces End of module project",
+        "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
+        "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
+        "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git"
+      }
+        ]
+  }
+  
