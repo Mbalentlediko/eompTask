@@ -37,51 +37,23 @@
    ],
    {
   "Skills": {
-    "title": "Web Development",
-    "techStack": [
-      {
-        "img": "https://img.icons8.com/fluency/96/html-5.png",
-        "title": "HTML"
-      },
-      {
-        "img": "https://img.icons8.com/fluency/96/css3.png",
-        "title": "CSS"
-      },
-      {
-        "img": "https://img.icons8.com/fluency/96/javascript.png",
-        "title": "JavaScript"
-      },
-      {
-        "img": "https://img.icons8.com/color/96/vue-js.png",
-        "title": "VueJS"
-      },
-      {
-        "img": "https://img.icons8.com/color/96/nodejs.png",
-        "title": "NodeJS"
-      },
-      {
-        "img": "https://img.icons8.com/fluency/96/express-js.png",
-        "title": "ExpressJS"
-      },
-      {
-        "img": "https://img.icons8.com/ios-filled/96/api-settings.png",
-        "title": "Rest APIs"
-      },
-      {
-        "img": "https://img.icons8.com/color/96/firebase.png",
-        "title": "Firebase"
-      }
-    ]
-  },
-  "softSkills": {
-    "skills": [
-      "Effective communication",
-      "Punctuality",
-      "Critical thinking",
-      "Problem solving",
-      "Analytical thinking"
-    ]
-  }
+  "techStack": [
+    { "img": "https://img.icons8.com/fluency/96/html-5.png", "title": "HTML" },
+    { "img": "https://img.icons8.com/fluency/96/css3.png", "title": "CSS" },
+    { "img": "https://img.icons8.com/fluency/96/javascript.png", "title": "JavaScript" },
+    { "img": "https://img.icons8.com/color/96/vue-js.png", "title": "VueJS" },
+    { "img": "https://img.icons8.com/color/96/nodejs.png", "title": "NodeJS" },
+    { "img": "https://img.icons8.com/fluency/96/express-js.png", "title": "ExpressJS" },
+    { "img": "https://img.icons8.com/ios-filled/96/api-settings.png", "title": "Rest APIs" },
+    { "img": "https://img.icons8.com/color/96/firebase.png", "title": "Firebase" }
+  ],
+  "softSkills": [
+    "Effective communication",
+    "Punctuality",
+    "Critical thinking",
+    "Problem solving",
+    "Analytical thinking"
+  ]
 },
    "testimonials": [
      {
