@@ -35,28 +35,54 @@
        "duty": "Learn different programming languages, build websites"
      }
    ],
-   "skills": [
-     {
-       "title": "Good public speaking  skills",
-       "explanation": "I have good public speaking skills: I had a 6 weeks training by Speak to Inspire where I was taught authenticity and passion. The power of storytelling and how to craft and deliver compelling stories."
-     },
-     {
-       "title": "Critical thinking",
-       "explanation": "I am able to think on my feet and make informed decisions by analyzing information, identifying biases, and evaluating evidence."
-     },
-     {
-       "title": "Team work",
-       "explanation": "Ability to work in a team: I enjoy having more opinions to consider before making a decision, and I respect the views and opinions of other people."
-     },
-     {
-       "title": "Excellent adaptation skills",
-       "explanation": "I easily adapt to different working conditions."
-     },
-     {
-       "title": "Time Management",
-       "explanation": "I am able to plan and schedule my time properly, making sure to include all of my responsibilities and being on time on every task assigned."
-     }
-   ],
+   {
+  "technicalSkills": {
+    "title": "Web Development",
+    "techStack": [
+      {
+        "img": "https://img.icons8.com/fluency/96/html-5.png",
+        "title": "HTML"
+      },
+      {
+        "img": "https://img.icons8.com/fluency/96/css3.png",
+        "title": "CSS"
+      },
+      {
+        "img": "https://img.icons8.com/fluency/96/javascript.png",
+        "title": "JavaScript"
+      },
+      {
+        "img": "https://img.icons8.com/color/96/vue-js.png",
+        "title": "VueJS"
+      },
+      {
+        "img": "https://img.icons8.com/color/96/nodejs.png",
+        "title": "NodeJS"
+      },
+      {
+        "img": "https://img.icons8.com/fluency/96/express-js.png",
+        "title": "ExpressJS"
+      },
+      {
+        "img": "https://img.icons8.com/ios-filled/96/api-settings.png",
+        "title": "Rest APIs"
+      },
+      {
+        "img": "https://img.icons8.com/color/96/firebase.png",
+        "title": "Firebase"
+      }
+    ]
+  },
+  "softSkills": {
+    "skills": [
+      "Effective communication",
+      "Punctuality",
+      "Critical thinking",
+      "Problem solving",
+      "Analytical thinking"
+    ]
+  }
+},
    "testimonials": [
      {
        "name": "Zizipho",
