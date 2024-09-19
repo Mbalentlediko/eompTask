@@ -100,8 +100,8 @@
     {
         "name": "Vue portfolio",
         "description": "This is my first portfolio using Vue Js ",
-        "image": "https://mbalentlediko.github.io/Images/static/Vue.png",
-        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
+        "image": "https://mbalentlediko.github.io/Images/static/vue.png",
+        "gitHub": "https://github.com/Mbalentlediko/vuePortfolio.git"
       },
     {
       "name": "Keyboard",
