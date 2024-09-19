@@ -98,7 +98,7 @@
         "description": "This is my first portfolio using Vue Js ",
         "image": "https://mbalentlediko.github.io/Images/static/vue.png",
         "gitHub": "https://github.com/Mbalentlediko/vuePortfolio.git",
-      "link": ""
+      "link": "https://vueportfolio-6f0ff.firebaseapp.com/"
       },
     {
       "name": "BMI Calculator",
