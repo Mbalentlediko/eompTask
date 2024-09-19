@@ -98,6 +98,12 @@
         "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
       },
     {
+        "name": "Vue portfolio",
+        "description": "This is my first portfolio using Vue Js ",
+        "image": "https://mbalentlediko.github.io/Images/static/Vue.png",
+        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
+      },
+    {
       "name": "Keyboard",
       "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
       "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
