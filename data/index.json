@@ -80,6 +80,13 @@
   },
   "projects": [
     {
+        "name": "FitBite",
+        "description": "This is a full stack ecommerce project that I partnered up with someone to do ",
+        "image": "https://mbalentlediko.github.io/Images/static/fitbite.png",
+        "gitHub": "https://github.com/Mbalentlediko/FitBite.git",
+      "link": "https://fitbite-prj.web.app/"
+      },
+    {
         "name": "master-Pieces End of module project",
         "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
         "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
@@ -106,20 +113,6 @@
       "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
       "link": "https://calculate-qqc8inmoc-mbalentledikos-projects.vercel.app/"
-    },
-      {
-        "name": "Swegga website Clone",
-        "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
-        "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
-        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git",
-      "link": ""
-      },
-        {
-      "name": "Keyboard",
-      "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
-      "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
-      "gitHub": "https://github.com/Mbalentlediko/keyboard.git",
-      "link": ""
     }
    
   
