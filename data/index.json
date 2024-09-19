@@ -91,7 +91,7 @@
       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
       "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
       "gitHub": "https://github.com/Mbalentlediko/newCalculator.git",
-      "link": ""
+      "link": "https://new-calculator-bde18kc8l-mbalentledikos-projects.vercel.app/"
     },
     {
         "name": "Swegga website Clone",
