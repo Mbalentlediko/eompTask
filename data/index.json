@@ -94,13 +94,6 @@
       "link": "https://new-calculator-bde18kc8l-mbalentledikos-projects.vercel.app/"
     },
     {
-        "name": "Swegga website Clone",
-        "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
-        "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
-        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git",
-      "link": ""
-      },
-    {
         "name": "Vue portfolio",
         "description": "This is my first portfolio using Vue Js ",
         "image": "https://mbalentlediko.github.io/Images/static/vue.png",
@@ -108,19 +101,26 @@
       "link": ""
       },
     {
+      "name": "BMI Calculator",
+      "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
+      "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
+      "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
+      "link": "https://calculate-qqc8inmoc-mbalentledikos-projects.vercel.app/"
+    },
+      {
+        "name": "Swegga website Clone",
+        "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
+        "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
+        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git",
+      "link": ""
+      },
+        {
       "name": "Keyboard",
       "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
       "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
       "gitHub": "https://github.com/Mbalentlediko/keyboard.git",
       "link": ""
     },
-    {
-      "name": "BMI Calculator",
-      "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
-      "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
-      "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
-      "link": ""
-    }
    
   
   ]
