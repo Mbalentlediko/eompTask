@@ -83,37 +83,43 @@
         "name": "master-Pieces End of module project",
         "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
         "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
-        "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git"
+        "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git",
+      "link": "https://ecommerece-project-1um3f2x8e-mbalentledikos-projects.vercel.app/"
       },
     {
       "name": "Calculator",
       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
       "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
-      "gitHub": "https://github.com/Mbalentlediko/newCalculator.git"
+      "gitHub": "https://github.com/Mbalentlediko/newCalculator.git",
+      "link": ""
     },
     {
         "name": "Swegga website Clone",
         "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
         "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
-        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
+        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git",
+      "link": ""
       },
     {
         "name": "Vue portfolio",
         "description": "This is my first portfolio using Vue Js ",
         "image": "https://mbalentlediko.github.io/Images/static/vue.png",
-        "gitHub": "https://github.com/Mbalentlediko/vuePortfolio.git"
+        "gitHub": "https://github.com/Mbalentlediko/vuePortfolio.git",
+      "link": ""
       },
     {
       "name": "Keyboard",
       "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
       "image": "https://mbalentlediko.github.io/Images/static/Keyboard.png",
-      "gitHub": "https://github.com/Mbalentlediko/keyboard.git"
+      "gitHub": "https://github.com/Mbalentlediko/keyboard.git",
+      "link": ""
     },
     {
       "name": "BMI Calculator",
       "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
       "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
-      "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git"
+      "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
+      "link": ""
     }
    
   
