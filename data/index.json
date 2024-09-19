@@ -80,11 +80,23 @@
   },
   "projects": [
     {
+        "name": "master-Pieces End of module project",
+        "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
+        "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
+        "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git"
+      },
+    {
       "name": "Calculator",
       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
       "image": "https://mbalentlediko.github.io/Images/static/newCalculator.png",
       "gitHub": "https://github.com/Mbalentlediko/newCalculator.git"
     },
+    {
+        "name": "Swegga website Clone",
+        "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
+        "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
+        "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
+      },
     {
       "name": "Keyboard",
       "description": "I had made this keyboard using CSS and HTML to show my understanding of using CSS.",
@@ -96,18 +108,8 @@
       "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
       "image": "https://mbalentlediko.github.io/Images/static/BMI-calculator.png",
       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git"
-    },
-    {
-      "name": "Swegga website Clone",
-      "description": "This is a clone of a Swegga website , it is the use of CSS, HTML and ",
-      "image": "https://mbalentlediko.github.io/Images/static/swegga.png",
-      "gitHub": "https://github.com/Mbalentlediko/sweggaFashion.git"
-    },
-    {
-      "name": "master-Pieces End of module project",
-      "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
-      "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
-      "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git"
     }
+   
+  
   ]
 }
