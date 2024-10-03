@@ -16,7 +16,7 @@
     {
       "id": 1,
       "year": 2023,
-      "description": "Bachelors degree",
+      "description": "Bachelors pass",
       "place": "Centre Of Science And Technology (COSAT)",
       "image": "https://mbalentlediko.github.io/Images/static/logo.jpg"
     },
@@ -41,7 +41,7 @@
         "title": "HTML"
       },
       {
-        "img":"https://img.icons8.com/color/48/mysql-logo.png",
+        "img": "https://img.icons8.com/color/48/mysql-logo.png",
         "title": "MYSQL"
       },
       {
@@ -80,19 +80,19 @@
   },
   "projects": [
     {
-        "name": "FitBite",
-        "description": "This is a full stack ecommerce project that I partnered up with someone to do ",
-        "image": "https://mbalentlediko.github.io/Images/static/fitbite.png",
-        "gitHub": "https://github.com/Mbalentlediko/FitBite.git",
+      "name": "FitBite",
+      "description": "This is a full stack ecommerce project that I partnered up with someone to do ",
+      "image": "https://mbalentlediko.github.io/Images/static/fitbite.png",
+      "gitHub": "https://github.com/Mbalentlediko/FitBite.git",
       "link": "https://fitbite-prj.web.app/"
-      },
+    },
     {
-        "name": "master-Pieces End of module project",
-        "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
-        "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
-        "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git",
+      "name": "master-Pieces End of module project",
+      "description": "This is an ecommerce project I used for my end of module project , using CSS , JabaScript and HTML",
+      "image": "https://mbalentlediko.github.io/Images/static/masterPiecesBotique.png",
+      "gitHub": "https://github.com/Mbalentlediko/masterpieceHairbotique.git",
       "link": "https://ecommerece-project-1um3f2x8e-mbalentledikos-projects.vercel.app/"
-      },
+    },
     {
       "name": "Calculator",
       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, JavaScript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
@@ -101,12 +101,12 @@
       "link": "https://new-calculator-bde18kc8l-mbalentledikos-projects.vercel.app/"
     },
     {
-        "name": "Vue portfolio",
-        "description": "This is my first portfolio using Vue Js ",
-        "image": "https://mbalentlediko.github.io/Images/static/vue.png",
-        "gitHub": "https://github.com/Mbalentlediko/vuePortfolio.git",
+      "name": "Vue portfolio",
+      "description": "This is my first portfolio using Vue Js ",
+      "image": "https://mbalentlediko.github.io/Images/static/vue.png",
+      "gitHub": "https://github.com/Mbalentlediko/vuePortfolio.git",
       "link": "https://vueportfolio-6f0ff.firebaseapp.com/"
-      },
+    },
     {
       "name": "BMI Calculator",
       "description": "This is a Basic BMI calculator I did that calculates a person's Body mass index",
@@ -114,7 +114,5 @@
       "gitHub": "https://github.com/Mbalentlediko/calculate-BMI.git",
       "link": "https://calculate-qqc8inmoc-mbalentledikos-projects.vercel.app/"
     }
-   
-  
   ]
 }
