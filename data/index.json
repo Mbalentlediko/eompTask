@@ -26,6 +26,21 @@
       "description": "Web Development course",
       "place": "Life Choices Academy",
       "image": "https://mbalentlediko.github.io/Images/static/lca.jpg"
+    },
+    {
+      "id": 3,
+      "year": 2024,
+      "description": "Junior Cybersecurity Analyst",
+      "place": "CISCO Nertworking Academy",
+      "image": "https://mbalentlediko.github.io/Images/static/cybersecurity.png
+"
+    },
+    {
+      "id": 4,
+      "year": 2024,
+      "description": "UI/UX Heckathon",
+      "place": "Life Choices Studio",
+      "image": "https://mbalentlediko.github.io/Images/static/UIUX.png"
     }
   ],
   "experiences": [
