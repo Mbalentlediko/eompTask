@@ -13,12 +13,21 @@
       "My name is Mbalentle Diko, I am from Khayelitsha. I went to the Centre Of Science And Technology, where I got introduced to Information technology as a subject, and I knew I wanted more of what I was given there and then I knew that I belonged there and I will be going there. From a young age, I have been captivated by the power of the internet and its ability to connect people and revolutionize industries. As I delved deeper into the realm of web development, I discovered the endless possibilities it offers for creativity, problem-solving, and making a lasting impact on individuals and businesses alike. After matric, I applied to Life Choices Academy where I am still at, doing web development. Information Technology as a whole fascinates me. I am grateful to be in the Technology industry, and I am prepared to learn more."
     ],
     "education": [
+      
+         {
+        "id": 1,
+        "year": 2024,
+        "description": "Junior Cybersecurity Analyst",
+        "place": "CISCO Nertworking Academy",
+        "image": "https://mbalentlediko.github.io/Images/static/cybersecurity.png"
+  
+      } ,
       {
-        "id":4 ,
-        "year": 2023,
-        "description": "Bachelors pass",
-        "place": "Centre Of Science And Technology (COSAT)",
-        "image": "https://mbalentlediko.github.io/Images/static/logo.jpg"
+        "id": 2,
+        "year": 2024,
+        "description": "UI/UX Heckathon",
+        "place": "Life Choices Studio",
+        "image": "https://mbalentlediko.github.io/Images/static/UIUX.png"
       },
       {
         "id": 3,
@@ -28,20 +37,13 @@
         "image": "https://mbalentlediko.github.io/Images/static/lca.jpg"
       },
       {
-        "id": 1,
-        "year": 2024,
-        "description": "Junior Cybersecurity Analyst",
-        "place": "CISCO Nertworking Academy",
-        "image": "https://mbalentlediko.github.io/Images/static/cybersecurity.png"
-  
-      },
-      {
-        "id": 2,
-        "year": 2024,
-        "description": "UI/UX Heckathon",
-        "place": "Life Choices Studio",
-        "image": "https://mbalentlediko.github.io/Images/static/UIUX.png"
+        "id":4 ,
+        "year": 2023,
+        "description": "Bachelors pass",
+        "place": "Centre Of Science And Technology (COSAT)",
+        "image": "https://mbalentlediko.github.io/Images/static/logo.jpg"
       }
+    
     ],
     "experiences": [
       {
